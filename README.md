@@ -1,6 +1,9 @@
 # ✨ Full Stack Realtime Chat App ✨
 
 
+<img width="1874" height="944" alt="img" src="https://github.com/user-attachments/assets/fef1b2a2-33d6-4d4b-967f-06657acb1473" />
+
+
 Highlights:
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
